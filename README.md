@@ -13,9 +13,9 @@ Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping 
 Lecture 6: Binary & Decimal Number System : https://drive.google.com/file/d/1hLijJiM2oHdDpTinO2ploLm3QhrsaGix/view
 
 Lecture 7: LeetCode Problem Solving Session : https://drive.google.com/file/d/1l0sV5t5AeujRd2D35j5JC4qTUbq8xMOu/view
- - Reverse Integer [https://leetcode.com/problems/reverse... ]
- - Complement base 10 Integer [https://leetcode.com/problems/complem... ]
- - Power of Two [https://leetcode.com/problems/power-o... ]
+ - Reverse Integer [https://leetcode.com/problems/reverse-integer/description/]
+ - Complement base 10 Integer [https://leetcode.com/problems/complement-of-base-10-integer/]
+ - Power of Two [https://leetcode.com/problems/power-of-two/]
 
 Lecture 8: Switch Statement & Functions : https://drive.google.com/file/d/1pp8Os3PYPh2zGiU0lUVGXbMoXEBIsBOX/view
 
@@ -29,8 +29,8 @@ https://drive.google.com/file/d/1IYPF9B-YgQ7Bk7YiX0fLllwnm7QutdKB/view
 - Pair Sum [https://bit.ly/3EwlU6e ]
 - Triplet sum [https://bit.ly/3GbgVs3]
 Howework question:
-Ques1: https://leetcode.com/problems/unique-...
-Ques2: https://leetcode.com/problems/find-al... 
+Ques1: https://leetcode.com/problems/unique-number-of-occurrences/
+Ques2: https://leetcode.com/problems/find-all-duplicates-in-an-array/ 
 Ques3: https://bit.ly/3GbgVs3 
 Ques4: https://bit.ly/3DfQW0s 
 - Sort 0 1 2 [https://bit.ly/3DfQW0s]
