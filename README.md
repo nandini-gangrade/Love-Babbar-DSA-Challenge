@@ -1,56 +1,56 @@
-  <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Programming Lectures Schedule</title>
-    <style>
-      table {
-        border-collapse: collapse;
-        width: 100%;
-      }
-      th, td {
-        text-align: center;
-        padding: 8px;
-        border: 1px solid black;
-      }
-      th {
-        background-color: #ddd;
-      }
-      tr:nth-child(even) {
-        background-color: #f2f2f2;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Programming Lectures Schedule</h1>
-    <table>
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Tasks</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>9 May 2023</td>
-          <td>
-            <ul>
-              <li><a href="https://drive.google.com/file/d/1Mf2JpjY2z6s1Nl18ue1PDxdGoie50ywb/view">Lecture 1: Intro to Programming &amp; Flowcharts</a></li>
-              <li><a href="https://drive.google.com/file/d/14CMAnuh2b4Lg0Qf2nJS_ZtYwg1PMoF_q/view">Lecture 2: Write Your First Program in C++</a></li>
-              <li><a href="https://drive.google.com/file/d/1SrRo9oiIKS3D4JR4Er3tY85hALXzgdIT/view">Lecture 3: If-Else, While loop &amp; Lots of Patterns (Part-1)</a></li>
-              <li><a href="https://drive.google.com/file/d/1onLkPV9zr6HUHEVtgLzxRJCL4tzpY5ux/view">Lecture 4: Solving Pattern Questions (Part-2)</a></li>
-              <li><a href="https://drive.google.com/file/d/1hBPUhy-1v-9eCqTMnZLaAVehAc9unctJ/view">Lecture 5: Bitwise Operators, For Loops, Operator Precedence &amp; Variable Scoping</a></li>
-              <li><a href="https://drive.google.com/file/d/1hLijJiM2oHdDpTinO2ploLm3QhrsaGix/view">Lecture 6: Binary &amp; Decimal Number System</a></li>
-              <li><a href="https://drive.google.com/file/d/1l0sV5t5AeujRd2D35j5JC4qTUbq8xMOu/view">Lecture 7: LeetCode Problem Solving Session<br>
-              - <a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a><br>
-              - <a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement base 10 Integer </a><br>
-              - <a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></a></li>
-              <li><a href="https://drive.google.com/file/d/1pp8Os3PYPh2zGiU0lUVGXbMoXEBIsBOX/view
-              <li><a href="https://drive.google.com/file/d/1hBPUhy-1v-9eCqTMnZLaAVehAc9unctJ/view">Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping</a></li>
-              <li><a href="https://drive.google.com/file/d/1ZwCgJdTrOWFmCkDjKzKFfAL7VdBPKJdU/view">Lecture 6: While Loops, Functions & Indentation</a></li>
-  <li><a href="https://drive.google.com/file/d/1oYsehHlbzV-oCVnFAj53Xe-ALa6-d5eB/view">Lecture 7: If Statements & Comparison Operators</a></li>
-  <li><a href="https://drive.google.com/file/d/1TTJdOZ8QeZgYzE1idOJL-9lO9rzoOTNt/view">Lecture 8: Lists & Tuples</a></li>
-  <li><a href="https://drive.google.com/file/d/1oMyP_r-V_0WnAHjrGwIbOtD2SMxH_x1W/view">Lecture 9: Dictionaries & Sets</a></li>
-            </ul>
-         </td>
-       </tr> 
-   </tbody>
+<table>
+  <tr>
+    <th>Lecture Number</th>
+    <th>Lecture Title</th>
+    <th>Links</th>
+    <th>Homework Questions</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Intro to Programming & Flowcharts</td>
+    <td><a href="https://drive.google.com/file/d/1Mf2JpjY2z6s1Nl18ue1PDxdGoie50ywb/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Write Your First Program in C++</td>
+    <td><a href="https://drive.google.com/file/d/14CMAnuh2b4Lg0Qf2nJS_ZtYwg1PMoF_q/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>If-Else, While loop & Lots of Patterns (Part-1)</td>
+    <td><a href="https://drive.google.com/file/d/1SrRo9oiIKS3D4JR4Er3tY85hALXzgdIT/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Solving Pattern Questions (Part-2)</td>
+    <td><a href="https://drive.google.com/file/d/1onLkPV9zr6HUHEVtgLzxRJCL4tzpY5ux/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Bitwise Operators, For Loops, Operator Precedence & Variable Scoping</td>
+    <td><a href="https://drive.google.com/file/d/1hBPUhy-1v-9eCqTMnZLaAVehAc9unctJ/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Binary & Decimal Number System</td>
+    <td><a href="https://drive.google.com/file/d/1hLijJiM2oHdDpTinO2ploLm3QhrsaGix/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>LeetCode Problem Solving Session</td>
+    <td><a href="https://drive.google.com/file/d/1l0sV5t5AeujRd2D35j5JC4qTUbq8xMOu/view">View</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/reverse-integer/description/">Reverse Integer</a></li>
+            <li><a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement base 10 Integer</a></li>
+            <li><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
