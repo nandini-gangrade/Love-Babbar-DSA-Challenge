@@ -1,9 +1,5 @@
-<html>
-<head>
-	<title>Complete C++ Placement DSA Course</title>
-</head>
-<body>
-	<h1>DAY 1</h1>
+# Complete C++ Placement DSA Course
+<h1>DAY 1</h1>
 <table>
   <tr>
     <th>Lecture Number</th>
@@ -57,8 +53,6 @@
             <li><a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement base 10 Integer</a></li>
             <li><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></li>
         </ul>
-      
-    </td>
   </tr>
   <tr>
 <td>8</td>
@@ -83,34 +77,11 @@
             <li><a href="https://bit.ly/3Il0c7n">Array Intersection</a></li>
             <li><a href="https://bit.ly/3EwlU6e">Pair Sum</a></li>
             <li><a href="https://bit.ly/3GbgVs3">Triplet sum</a></li>
+	    <li><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Ques1: Unique Number of Occurrences</a></li>
+            <li><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Ques2: Find All Duplicates in an Array</a></li>
+            <li>a href="https://bit.ly/3GbgVs3">Ques3: Triplet sum</a></li>
+            <li><a href="https://bit.ly/3DfQW0s">Ques4: Sort 0 1 2</a></li>
         </ul>
     </td>
-  </tr>
-  <tr>
-    <td colspan="4"><strong>Homework questions:</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Ques1: Unique Number of Occurrences</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Ques2: Find All Duplicates in an Array</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://bit.ly/3GbgVs3">Ques3: Triplet sum</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://bit.ly/3DfQW0s">Ques4: Sort 0 1 2</a></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
