@@ -1,5 +1,6 @@
 # Complete C++ Placement DSA Course
-<h1>DAY 1</h1>
+<br>
+<h1>DAY 1 : 09 MAY 2023</h1>
 <table>
   <tr>
     <th>Lecture Number</th>
@@ -79,9 +80,47 @@
             <li><a href="https://bit.ly/3GbgVs3">Triplet sum</a></li>
 	    <li><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Ques1: Unique Number of Occurrences</a></li>
             <li><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Ques2: Find All Duplicates in an Array</a></li>
-            <li>a href="https://bit.ly/3GbgVs3">Ques3: Triplet sum</a></li>
+            <li><a href="https://bit.ly/3GbgVs3">Ques3: Triplet sum</a></li>
             <li><a href="https://bit.ly/3DfQW0s">Ques4: Sort 0 1 2</a></li>
         </ul>
     </td>
   </tr>
 </table>
+<br>
+<h1>DAY 2 : 11 MAY 2023</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Lecture Number</th>
+      <th>Lecture Title</th>
+      <th>Links</th>
+      <th>Homework Questions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    ...
+    <tr>
+      <td>20</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+...
+<br>
+<h1>DAY 20 : 29 May 2023</h1>
+...
