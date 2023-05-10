@@ -1,3 +1,9 @@
+<html>
+<head>
+	<title>Complete C++ Placement DSA Course</title>
+</head>
+<body>
+	<h1>DAY 1</h1>
 <table>
   <tr>
     <th>Lecture Number</th>
@@ -51,6 +57,60 @@
             <li><a href="https://leetcode.com/problems/complement-of-base-10-integer/">Complement base 10 Integer</a></li>
             <li><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></li>
         </ul>
+      
     </td>
   </tr>
   <tr>
+<td>8</td>
+<td>Switch Statement & Functions</td>
+<td><a href="https://drive.google.com/file/d/1pp8Os3PYPh2zGiU0lUVGXbMoXEBIsBOX/view">View</a></td>
+<td></td>
+    </tr>
+  <tr>
+    <td>9</td>
+    <td>Introduction to Arrays in C++</td>
+    <td><a href="https://drive.google.com/file/d/1gSbnSQvpzauATYAC3PtBT1fFzy7_Z-mj/view">View</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Solving LeetCode/CodeStudio Questions [Arrays]</td>
+    <td><a href="https://drive.google.com/file/d/1IYPF9B-YgQ7Bk7YiX0fLllwnm7QutdKB/view">View</a></td>
+    <td>
+        <ul>
+            <li><a href="https://bit.ly/3y01Zdu">Find Unique element</a></li>
+            <li><a href="https://bit.ly/3dm6bdZ">Duplicates in Array</a></li>
+            <li><a href="https://bit.ly/3Il0c7n">Array Intersection</a></li>
+            <li><a href="https://bit.ly/3EwlU6e">Pair Sum</a></li>
+            <li><a href="https://bit.ly/3GbgVs3">Triplet sum</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>Homework questions:</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Ques1: Unique Number of Occurrences</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Ques2: Find All Duplicates in an Array</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://bit.ly/3GbgVs3">Ques3: Triplet sum</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://bit.ly/3DfQW0s">Ques4: Sort 0 1 2</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
