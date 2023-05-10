@@ -1,6 +1,6 @@
 # Complete C++ Placement DSA Course
 <br>
-<h1>DAY 1 : 09 MAY 2023</h1>
+<h2>DAY 1 : 09 MAY 2023</h2>
 <table>
   <tr>
     <th>Lecture Number</th>
@@ -87,7 +87,7 @@
   </tr>
 </table>
 <br>
-<h1>DAY 2 : 11 MAY 2023</h1>
+<h2>DAY 2 : 11 MAY 2023</h2>
 <table>
   <thead>
     <tr>
@@ -111,6 +111,12 @@
       <td>...</td>
     </tr>
     ...
+     <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
     <tr>
       <td>20</td>
       <td>...</td>
@@ -122,5 +128,5 @@
 <br>
 ...
 <br>
-<h1>DAY 20 : 29 May 2023</h1>
+<h2>DAY 20 : 29 May 2023</h2>
 ...
